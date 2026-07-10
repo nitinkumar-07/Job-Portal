@@ -15,8 +15,8 @@ import CompanySetup from "./components/adminComponent/CompanySetup.jsx"
 import AdminJobs from "./components/adminComponent/AdminJobs.jsx"
 import PostJob from "./components/adminComponent/PostJob.jsx"
 import Applicants from "./components/adminComponent/Applicants.jsx"
-import ProtectedRoute from "./components/admincomponent/ProtectedRoute.jsx";
-import JobSetup from "./components/adminComponent/jobSetup.jsx"
+import ProtectedRoute from "./components/adminComponent/ProtectedRoute.jsx";
+import JobSetup from "./components/adminComponent/JobSetup.jsx"
 
 const appRouter = createBrowserRouter([
   {

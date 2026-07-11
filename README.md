@@ -224,11 +224,11 @@ npm run dev
 
 <tr>
 <td align="center">
-<img width="1920" height="1080" alt="Screenshot (493)" src="https://github.com/user-attachments/assets/12dd757f-a81e-4a1e-adda-5e7388484807" />
+<img width="1917" height="1017" alt="Screenshot 2026-07-10 210207" src="https://github.com/user-attachments/assets/c7f74273-19d0-475e-8b48-5591d6c2f60f" />
 </td>
 
 <td align="center">
-<img width="1920" height="1080" alt="Screenshot (494)" src="https://github.com/user-attachments/assets/3cd30ec2-5b4e-495c-b1e1-13af2f59eb72" />
+<img width="1920" height="1014" alt="Screenshot (494)" src="https://github.com/user-attachments/assets/41e9e6d6-b63c-419e-8f09-497a2208c055" />
 </td>
 </tr>
 
@@ -239,11 +239,11 @@ npm run dev
 
 <tr>
 <td align="center">
-<img width="1920" height="1080" alt="Screenshot (495)" src="https://github.com/user-attachments/assets/cc9a57b3-f4e4-430a-b953-dd5e61c352bb" />
+<img width="1920" height="1014" alt="Screenshot (495)" src="https://github.com/user-attachments/assets/ee8fb414-4735-4832-a8dd-9adc59c2c17d" />
 </td>
 
 <td align="center">
-<img width="1920" height="1080" alt="Screenshot (496)" src="https://github.com/user-attachments/assets/fc8652d7-f486-4485-9912-e6095f419fd5" />
+<img width="1920" height="1016" alt="Screenshot (496)" src="https://github.com/user-attachments/assets/897389e7-b6d6-4a08-98d9-5c9982e726c3" />
 </td>
 </tr>
 
@@ -255,11 +255,11 @@ npm run dev
 
 <tr>
 <td align="center">
-<img src="https://github.com/user-attachments/assets/c88cffdb-f8e2-4046-9dc5-63f1ec677fda" width="450">
+<img width="1920" height="1017" alt="Screenshot (497)" src="https://github.com/user-attachments/assets/ff61d571-b6a9-410d-b3de-4050f8839689" />
 </td>
 
 <td align="center">
-<img src="https://github.com/user-attachments/assets/9e8079f1-e214-4d8a-9a24-51c78532e84a" width="450">
+<img width="1920" height="1017" alt="Screenshot (498)" src="https://github.com/user-attachments/assets/2d716255-a595-4415-ab50-1473e56c7ab2" />
 </td>
 </tr>
 
@@ -270,11 +270,11 @@ npm run dev
 
 <tr>
 <td align="center">
-<img src="https://github.com/user-attachments/assets/9c94e634-71bf-4aef-bf17-3eaf926e6582" width="450">
+<img width="1920" height="1024" alt="Screenshot (500)" src="https://github.com/user-attachments/assets/6caebc94-59ad-40f4-afb5-f7ec0a466e4e" />
 </td>
 
 <td align="center">
-<img src="https://github.com/user-attachments/assets/d3eb0687-d71b-4cf3-afae-ea794fdc67f8" width="450">
+<img width="1920" height="1021" alt="Screenshot (499)" src="https://github.com/user-attachments/assets/5422c6db-9dc7-423f-8222-74dd73188f3b" />
 </td>
 </tr>
 </table>

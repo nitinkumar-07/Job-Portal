@@ -22,53 +22,42 @@ The application enables **Job Seekers** to seamlessly build profiles, explore re
 
 # ✨ Features
 
-## 👨‍🎓 Student Module
+## 👨‍🎓 Job Seeker Features
 
-- Secure Signup & Login
-- JWT Authentication
-- Protected Routes
-- Update Profile
-- Upload Resume (PDF)
-- Upload Profile Photo
-- Add Skills
-- Bio Section
-- Browse All Jobs
-- Search Jobs
-- Filter Jobs
-- View Complete Job Details
-- One Click Apply
-- Track Applied Jobs
-- View Application Status
-- Responsive Dashboard
+| Feature | Feature |
+|---------|---------|
+| ✅ Secure Signup/Login | ✅ JWT Authentication |
+| ✅ Protected Routes | ✅ Update Profile |
+| ✅ Upload Resume (PDF) | ✅ Upload Profile Photo |
+| ✅ Add Skills & Bio | ✅ Browse Jobs |
+| ✅ Search Jobs | ✅ Filter Jobs |
+| ✅ Job Details Page | ✅ One Click Apply |
+| ✅ Track Applications | ✅ View Application Status |
+| ✅ Responsive Dashboard | |
 
 ---
 
-## 🏢 Recruiter Module
+## 🏢 Recruiter Features
 
-- Recruiter Authentication
-- Company Registration
-- Company Profile Management
-- Upload Company Logo
-- Create Job Posts
-- Update Job Details
-- Delete Jobs
-- View Posted Jobs
-- View Applicants
-- Accept Applications
-- Reject Applications
-- Recruiter Dashboard
+| Feature | Feature |
+|---------|---------|
+| ✅ Recruiter Login | ✅ Company Registration |
+| ✅ Company Management | ✅ Upload Company Logo |
+| ✅ Create Jobs | ✅ Update Jobs |
+| ✅ Delete Jobs | ✅ View Posted Jobs |
+| ✅ View Applicants | ✅ Accept/Reject Applications |
+| ✅ Recruiter Dashboard | |
 
 ---
 
 ## 🔐 Authentication & Security
 
-- JWT Authentication
-- HTTP Only Cookies
-- Password Hashing using bcrypt
-- Protected APIs
-- Role Based Authorization
-- Input Validation
-- Secure File Upload
+| Feature | Feature |
+|---------|---------|
+| ✅ JWT Authentication | ✅ HTTP Only Cookies |
+| ✅ Password Hashing (bcrypt) | ✅ Protected APIs |
+| ✅ Role-Based Authorization | ✅ Input Validation |
+| ✅ Secure File Upload | |
 
 ---
 
@@ -84,64 +73,40 @@ The application enables **Job Seekers** to seamlessly build profiles, explore re
 
 ## 🔍 Job Search
 
-- Search by Keyword
-- Filter by Location
-- Filter by Company
-- Filter by Job Role
-- Instant Search Results
-- Responsive Job Cards
+| Feature | Feature |
+|---------|---------|
+| 🔎 Search by Keyword | 📍 Filter by Location |
+| 🏢 Filter by Company | 💼 Filter by Job Role |
+| ⚡ Instant Search Results | 📱 Responsive Job Cards |
+
 
 ---
 
-## 📊 Dashboard
+## 📊 Dashboards
 
-### Student Dashboard
-
-- Profile Overview
-- Resume Preview
-- Applied Jobs History
-- Account Management
-
-### Recruiter Dashboard
-
-- Total Companies
-- Posted Jobs
-- Applicants List
-- Company Management
+| 👨‍🎓 Student Dashboard | 🏢 Recruiter Dashboard |
+|------------------------|------------------------|
+| 👤 Profile Overview | 🏢 Total Companies |
+| 📄 Resume Preview | 💼 Posted Jobs |
+| 📋 Applied Jobs History | 👥 Applicants List |
+| ⚙️ Account Management | 📊 Company Management |
 
 ---
 
 # 🛠 Tech Stack
 
-## Frontend
-
-- React.js
-- Vite
-- Redux Toolkit
-- React Router DOM
-- Tailwind CSS
-- Shadcn UI
-- Axios
-- Lucide Icons
-
----
-
-## Backend
-
-- Node.js
-- Express.js
-- MongoDB
-- Mongoose
-- JWT
-- bcryptjs
-- Multer
-- Cloudinary
-- Cookie Parser
-- CORS
-
----
-
----
+| 🎨 Frontend | ⚙️ Backend |
+|-------------|------------|
+| React.js | Node.js |
+| Vite | Express.js |
+| Redux Toolkit | MongoDB |
+| React Router DOM | Mongoose |
+| Tailwind CSS | JWT |
+| Shadcn UI | bcryptjs |
+| Axios | Multer |
+| Lucide React | Cloudinary |
+| | Cookie Parser |
+| | CORS |
 
 ---
 
@@ -200,14 +165,14 @@ cd job-portal
 Frontend
 
 ```bash
-cd client
+cd frontend
 npm install
 ```
 
 Backend
 
 ```bash
-cd server
+cd backend
 npm install
 ```
 
@@ -249,98 +214,83 @@ npm run dev
 npm run dev
 ```
 
----
-
 # 📸 Screenshots
 
-| Home | Jobs |
-|------|------|
-| Screenshot | Screenshot |
+<table align="center">
+<tr>
+<th>Home</th>
+<th>Home (Jobs Section)</th>
+</tr>
 
-| Login | Profile |
-|------|------|
-| Screenshot | Screenshot |
+<tr>
+<td align="center">
+<img width="1920" height="1080" alt="Screenshot (493)" src="https://github.com/user-attachments/assets/12dd757f-a81e-4a1e-adda-5e7388484807" />
+</td>
 
-| Recruiter Dashboard | Company Dashboard |
-|------|------|
-| Screenshot | Screenshot |
+<td align="center">
+<img width="1920" height="1080" alt="Screenshot (494)" src="https://github.com/user-attachments/assets/3cd30ec2-5b4e-495c-b1e1-13af2f59eb72" />
+</td>
+</tr>
 
----
+<tr>
+<th>Jobs</th>
+<th>Login</th>
+</tr>
+
+<tr>
+<td align="center">
+<img width="1920" height="1080" alt="Screenshot (495)" src="https://github.com/user-attachments/assets/cc9a57b3-f4e4-430a-b953-dd5e61c352bb" />
+</td>
+
+<td align="center">
+<img width="1920" height="1080" alt="Screenshot (496)" src="https://github.com/user-attachments/assets/fc8652d7-f486-4485-9912-e6095f419fd5" />
+</td>
+</tr>
+
+
+<tr>
+<th>Profile</th>
+<th>Applied Jobs</th>
+</tr>
+
+<tr>
+<td align="center">
+<img src="https://github.com/user-attachments/assets/c88cffdb-f8e2-4046-9dc5-63f1ec677fda" width="450">
+</td>
+
+<td align="center">
+<img src="https://github.com/user-attachments/assets/9e8079f1-e214-4d8a-9a24-51c78532e84a" width="450">
+</td>
+</tr>
+
+<tr>
+<th>Recruiter Job Dashboard</th>
+<th>Company Dashboard</th>
+</tr>
+
+<tr>
+<td align="center">
+<img src="https://github.com/user-attachments/assets/9c94e634-71bf-4aef-bf17-3eaf926e6582" width="450">
+</td>
+
+<td align="center">
+<img src="https://github.com/user-attachments/assets/d3eb0687-d71b-4cf3-afae-ea794fdc67f8" width="450">
+</td>
+</tr>
+</table>
 
 # 🎯 Major Functionalities
 
-✅ User Authentication
-
-✅ Recruiter Authentication
-
-✅ Company Management
-
-✅ Job Posting
-
-✅ Job Editing
-
-✅ Job Searching
-
-✅ Job Filtering
-
-✅ Resume Upload
-
-✅ Profile Management
-
-✅ Apply for Jobs
-
-✅ Applicant Tracking
-
-✅ Recruiter Dashboard
-
-✅ Student Dashboard
-
-✅ Protected Routes
-
-✅ Responsive UI
-
----
-
-# 💡 Future Improvements
-
-- Email Notifications
-- Forgot Password
-- Google Authentication
-- Bookmark Jobs
-- Real-time Notifications
-- Interview Scheduling
-- Admin Panel
-- AI Resume Analyzer
-- AI Job Recommendation
-- Chat Between Recruiter & Candidate
-
----
-
-# 🤝 Contributing
-
-Contributions are always welcome.
-
-1. Fork Repository
-
-2. Create New Branch
-
-```bash
-git checkout -b feature-name
-```
-
-3. Commit Changes
-
-```bash
-git commit -m "Added Feature"
-```
-
-4. Push Branch
-
-```bash
-git push origin feature-name
-```
-
-5. Open Pull Request
+| Functionality | Functionality |
+|--------------|--------------|
+| ✅ User Authentication | ✅ Recruiter Authentication |
+| ✅ Company Management | ✅ Job Posting |
+| ✅ Job Editing | ✅ Job Searching |
+| ✅ Job Filtering | ✅ Resume Upload |
+| ✅ Profile Management | ✅ Apply for Jobs |
+| ✅ Applicant Tracking | ✅ Protected Routes |
+| ✅ Student Dashboard | ✅ Recruiter Dashboard |
+| ✅ Responsive UI | |
 
 ---
 

@@ -33,7 +33,7 @@ The application enables **Job Seekers** to seamlessly build profiles, explore re
 | ✅ Search Jobs | ✅ Filter Jobs |
 | ✅ Job Details Page | ✅ One Click Apply |
 | ✅ Track Applications | ✅ View Application Status |
-| ✅ Responsive Dashboard | |
+| ✅ Responsive Dashboard | | 
 
 ---
 

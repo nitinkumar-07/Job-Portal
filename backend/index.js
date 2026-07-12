@@ -15,7 +15,7 @@ app.use(express.urlencoded({ extended: true }));
 app.use(cookieParser());
 
 const corsOption = {
-    origin: ["https://job-portal-backend-tkdn.onrender.com"],
+    origin: ["https://job-portal-frontend-43oe.onrender.com"],
     credentials: true,
 };
 app.use(cors(corsOption));
